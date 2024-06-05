@@ -7,6 +7,8 @@ const About = () => {
     <Container id="about" className="mt-5 pt-5">
       <Row>
         <Col md={6}>
+          <h1 className='text-danger bg-md'>Hello <span className='text-dark'>Arun Raj R</span>
+          <p>I'm a Frontend Developer </p></h1>
           <img src={Arun} alt="Arunraj R"
             className="img-fluid rounded-circle " />
         </Col>

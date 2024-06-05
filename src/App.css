@@ -45,3 +45,11 @@ body {
 main {
   padding-top: 20px;
 }
+
+
+.custom-hover:hover{
+  background-color: tomato;
+  color: black;
+  border-radius: 7px;
+  animation: ease-in-out infinite 0.5s;
+}

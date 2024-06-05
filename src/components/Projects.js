@@ -13,7 +13,7 @@ const projects = [
   },
   {
     title: 'Quiz App',
-    description: '',
+    description: 'A dynamic and interactive quiz application built with React, designed to enhance learning through engaging quizzes. The app features multiple question types, real-time feedback, and a scoring system to track progress. Users can create custom quizzes, view detailed results, and share their scores on social media. The responsive design ensures a seamless experience across all devices.',
     imageUrl: quizimg,
   },
 ];
@@ -38,8 +38,8 @@ const Projects = () => {
           </Col>
         ))}
       </Row>
-      <a className='btn btn-md-dark fs-2 text-info' 
-      href= 'https://arunraj003.github.co'>See More</a>
+      <a className='btn btn-md-dark fs-2 text-danger bg-hover custom-hover'
+      href= 'https://github.com/Arunraj003'>See More</a>
     </Container>
   );
 };
