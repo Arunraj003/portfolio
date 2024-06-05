@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f6b1d623.css",
+    "main.js": "/portfolio/static/js/main.f73b00eb.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/css.png": "/portfolio/static/media/css.31c1538172f15d8faee2.png",
+    "static/media/react.png": "/portfolio/static/media/react.f178b756ce5ba27bee8e.png",
+    "static/media/quiz.png": "/portfolio/static/media/quiz.7cacac2910a90c55917c.png",
+    "static/media/weather.png": "/portfolio/static/media/weather.98acbafe1ac91ac5cbeb.png",
+    "static/media/sql.png": "/portfolio/static/media/sql.8b741c313bda4ce78ddb.png",
+    "static/media/html.png": "/portfolio/static/media/html.d17ac030b3593856df26.png",
+    "static/media/vscode.png": "/portfolio/static/media/vscode.1038e3ef69739922ec21.png",
+    "static/media/java.png": "/portfolio/static/media/java.1637f91850cf9ecef953.png",
+    "static/media/js.png": "/portfolio/static/media/js.053fa81c5f12a9fff085.png",
+    "static/media/ARUNRAJ.jpg": "/portfolio/static/media/ARUNRAJ.cef40c909ac6e0d73f0c.jpg",
+    "index.html": "/portfolio/index.html",
+    "main.f6b1d623.css.map": "/portfolio/static/css/main.f6b1d623.css.map",
+    "main.f73b00eb.js.map": "/portfolio/static/js/main.f73b00eb.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6b1d623.css",
+    "static/js/main.f73b00eb.js"
+  ]
+}
