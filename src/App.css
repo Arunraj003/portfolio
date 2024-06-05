@@ -32,7 +32,16 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+body {
+  padding-top: 56px;
+}
+
+main {
+  padding-top: 20px;
 }
