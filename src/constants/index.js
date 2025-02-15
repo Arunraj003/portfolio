@@ -77,7 +77,8 @@ export const PROJECTS = [
 
 
 export const CONTACT = {
-  address: "12/5, Jonakara Paarai Street, Tiruvannamalai, Tamil Nadu, India ",
+  // address: "12/5, Jonakara Paarai Street, Tiruvannamalai, Tamil Nadu, India ",
+  address: "145/448, Aadhishesan Nagar,Tiruvannamalai,Tamil Nadu,India",
   phoneNo: "+91 9361995841 ",
   email: "arunr6506@gmail.com",
 };
